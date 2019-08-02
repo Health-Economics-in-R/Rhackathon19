@@ -11,7 +11,7 @@ Event hashtag is `#rhack19`
 
 ## Code of conduct
 
-To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](https://n8thangreen.wixsite.com/hermes-hack-london/coc). This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/Health-Economics-in-R/Rhackathon19/issues/).
+To ensure a safe, enjoyable, and friendly experience for everyone who participates, we have a [code of conduct](https://n8thangreen.wixsite.com/hermes-hack-london/code-of-conduct). This applies to people attending in person or remotely, and for interacting over the [issues](https://github.com/Health-Economics-in-R/Rhackathon19/issues/).
 
 ## Support
 
