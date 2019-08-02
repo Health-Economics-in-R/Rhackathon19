@@ -3,7 +3,7 @@ __Nov 6 - 7, 2019. Imperial College London__
 
 ![](http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/homepage-default-social--tojpeg_1523872141375_x1.jpg)
 
-Welcome to the repository for the 2019 hackathon. Imperial College London will be hosting its first health economics hackathon.
+Welcome to the repository for the 2019 health economics in R hackathon. This is the first time that Imperial College London will be hosting this event.
 
 * [Participants](http://unconf17.ropensci.org/#participants)  
 * Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/Health-Economics-in-R/Rhackathon19/issues/).
