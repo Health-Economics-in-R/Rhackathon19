@@ -1,4 +1,4 @@
-# [Rhackathon19](https://n8thangreen.wixsite.com/hermes-hack-london)
+# [Rhackathon19](https://n8thangreen.wixsite.com/hermes-hack-london) <img src="hackathon_logo.png" width="120" align="right" />
 __Nov 6 - 7, 2019. Imperial College London__
 
 ![](http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/homepage-default-social--tojpeg_1523872141375_x1.jpg)
