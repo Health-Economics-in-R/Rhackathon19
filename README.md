@@ -1,6 +1,8 @@
 # [Rhackathon19](https://n8thangreen.wixsite.com/hermes-hack-london) <img src="hackathon-logo.png" width="120" align="right" />
 __Nov 6 - 7, 2019. Imperial College London__
 
+
+
 ![](http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/homepage-default-social--tojpeg_1523872141375_x1.jpg)
 
 Welcome to the repository for the 2019 health economics in R hackathon. This is the first time that Imperial College London will be hosting this event.
